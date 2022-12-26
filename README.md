@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-mmm I've been thinking about how to write something to sound cool.... 
+mmm I've been thinking about writing something that would sound cool.... 
 
-### Cool
+##### Cool
 
 ![e9342f77-13eb-4342-a5e1-23b71c85148b_text](https://user-images.githubusercontent.com/84469045/209577699-79c14727-b98a-453d-ad5b-39ee9e36ebf8.gif)
 
